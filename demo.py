@@ -18,7 +18,7 @@ gpu_id = 0
 
 
 # Handle input and output args
-sess = tf.Session()
+sess = tf.compat.v1.Session()
 K.set_session(sess)
 
 with sess.as_default():
