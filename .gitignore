@@ -103,3 +103,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# catkin workspace
+catkin_ws/build
+catkin_ws/devel
+catkin_ws/.catkin_tools
+
+# models
+*.h5
