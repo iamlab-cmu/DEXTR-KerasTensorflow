@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/dextr-msgs"]
+	path = catkin_ws/src/dextr-msgs
+	url = git@github.com:iamlab-cmu/dextr-msgs.git
