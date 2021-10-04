@@ -3,10 +3,8 @@
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
-from keras import backend as K
 
 import rospy
-import tensorflow as tf
 
 from networks.dextr import DEXTR
 from mypath import Path
