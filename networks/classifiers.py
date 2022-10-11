@@ -1,6 +1,6 @@
 from math import ceil
 
-from keras.layers.merge import Concatenate, Add
+from keras.layers import Concatenate, Add
 from keras.layers import AveragePooling2D, ZeroPadding2D
 
 from keras.layers import Activation
